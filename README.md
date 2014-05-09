@@ -1,1 +1,1 @@
-Ember Test Setup
+Javascript Spec Setup
